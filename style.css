@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  button {
+    margin-left: 10px;
+    background-color: lightblue;
+    border: none;
+    padding: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: red;
+    color: white;
+  }
+  
